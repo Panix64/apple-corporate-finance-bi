@@ -1,2 +1,2 @@
 # apple-corporate-finance-bi
-Apple Inc. Corporate Finance Analysis using Python and Power BI.
+Corporate Finance Analysis of Apple Inc. (2022-2025) using a Python Data Pipeline, SQLite Modeling, and Power BI Executive Dashboard.

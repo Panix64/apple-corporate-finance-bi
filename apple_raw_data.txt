@@ -1,0 +1,191 @@
+Breakdown
+9/30/2022
+9/30/2023
+9/30/2024
+9/30/2025
+TTM
+
+Total Revenue
+394.33B
+383.29B
+391.04B
+416.16B
+451.44B
+Cost of Revenue
+223.55B
+214.14B
+210.35B
+220.96B
+235.37B
+Gross Profit
+170.78B
+169.15B
+180.68B
+195.2B
+216.07B
+
+Operating Expense
+51.35B
+54.85B
+57.47B
+62.15B
+68.71B
+Operating Income
+119.44B
+114.3B
+123.22B
+133.05B
+147.37B
+
+Net Non Operating Interest Income Expense
+-106M
+-183M
+--
+--
+--
+
+Other Income Expense
+-334M
+-565M
+269M
+-321M
+304M
+Pretax Income
+119.1B
+113.74B
+123.49B
+132.73B
+147.67B
+Tax Provision
+19.3B
+16.74B
+29.75B
+20.72B
+25.1B
+
+Net Income Common Stockholders
+99.8B
+97B
+93.74B
+112.01B
+122.58B
+Diluted NI Available to Com Stockholders
+99.8B
+97B
+93.74B
+112.01B
+122.58B
+Basic EPS
+6.15
+6.16
+6.11
+7.49
+8.30
+Diluted EPS
+6.11
+6.13
+6.08
+7.46
+8.26
+Basic Average Shares
+16.22B
+15.74B
+15.34B
+14.95B
+14.78B
+Diluted Average Shares
+16.33B
+15.81B
+15.41B
+15B
+14.84B
+Total Operating Income as Reported
+119.44B
+114.3B
+123.22B
+133.05B
+147.37B
+Total Expenses
+274.89B
+268.98B
+267.82B
+283.11B
+304.08B
+Net Income from Continuing & Discontinued Operation
+99.8B
+97B
+93.74B
+112.01B
+122.58B
+Normalized Income
+99.8B
+97B
+93.74B
+112.01B
+122.58B
+Interest Income
+2.83B
+3.75B
+--
+--
+--
+Interest Expense
+2.93B
+3.93B
+--
+--
+--
+Net Interest Income
+-106M
+-183M
+--
+--
+--
+EBIT
+119.44B
+114.3B
+123.22B
+133.05B
+147.37B
+EBITDA
+130.54B
+125.82B
+134.66B
+144.75B
+159.98B
+Reconciled Cost of Revenue
+223.55B
+214.14B
+210.35B
+220.96B
+235.37B
+Reconciled Depreciation
+11.1B
+11.52B
+11.45B
+11.7B
+12.61B
+Net Income from Continuing Operation Net Minority Interest
+99.8B
+97B
+93.74B
+112.01B
+122.58B
+Normalized EBITDA
+130.54B
+125.82B
+134.66B
+144.75B
+159.98B
+Tax Rate for Calcs
+0.16
+0.15
+0.24
+0.16
+0.17
+Tax Effect of Unusual Items
+0
+0
+0
+0
+0
